@@ -1,0 +1,5 @@
+# Binance Futures Testnet Trading Bot – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+python-binance==1.0.19   
+python-dotenv==1.0.1     
