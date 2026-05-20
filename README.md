@@ -247,7 +247,7 @@ python -m src.cli --help
 
 ---
 
-## 📊 Logging
+## Logging
 
 All activity is written to `logs/trading_bot.log` with rotating file support (5 MB per file, 3 backups).
 
