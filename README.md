@@ -7,7 +7,7 @@ Supports `MARKET`, `LIMIT`, and `STOP_MARKET` orders with structured logging, fu
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 | Requirement | Version |
 |-------------|---------|
@@ -30,7 +30,7 @@ Supports `MARKET`, `LIMIT`, and `STOP_MARKET` orders with structured logging, fu
 2. Click **"Generate Key"**.
 3. Copy the **API Key** and **Secret Key** — the secret is shown only once.
 
-> ⚠️ **These are testnet-only credentials. They have no access to real funds.**
+> **These are testnet-only credentials. They have no access to real funds.**
 
 ---
 
